@@ -1,6 +1,5 @@
 import pytest
 from string_processor import StringProcessor
-
 @pytest.mark.parametrize(
     "input_text, expected_output",
     [
